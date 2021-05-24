@@ -1,3 +1,5 @@
+-- Decompiled using Federal#9999's decompiler
+
 MySQL.ready(function(a)
   if a == 0 then
     print("[^5cloudfivem_whitelist^0] - Blacklist Refreshed!")
@@ -306,5 +308,3 @@ Citizen.CreateThread(function()
     va = json.decode(b)
   end)
 end)
-
--- Decompiled using Federal#9999's decompiler
