@@ -306,3 +306,5 @@ Citizen.CreateThread(function()
     va = json.decode(b)
   end)
 end)
+
+-- Decompiled using Federal#9999's decompiler
